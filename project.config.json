@@ -1,0 +1,26 @@
+{
+	"projectname": "taro-issue",
+	"description": "taro-issue",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"preloadBackgroundData": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false,
+		"coverView": true,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"useCompilerModule": true
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"packOptions": {
+		"ignore": [
+			{ "type": "glob", "value": "**/*.LICENSE.txt" },
+			{ "type": "glob", "value": "**/*.map" }
+		]
+	},
+	"simulatorPluginLibVersion": {}
+}
